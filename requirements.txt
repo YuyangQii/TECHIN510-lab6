@@ -1,6 +1,6 @@
-streamlit==1.10.0  
-pandas==1.4.1      
-spacy==3.2.1       
-geopy==2.2.0       
-python-dotenv==0.20.0  
-google-generativeai==1.0.0  
+streamlit
+pandas
+spacy
+geopy
+python-dotenv
+google-generativeai  
